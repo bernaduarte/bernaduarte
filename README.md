@@ -11,13 +11,13 @@
 - 😄 Pronouns: he/him  
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/bernardoduarteoliveira/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
-  <a href="https://discordapp.com/users/seu-id" target="_blank">
+  <a href="https://discordapp.com/users/manset7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
   </a>
-  <a href="https://www.instagram.com/seu-usuario/" target="_blank">
+  <a href="https://www.instagram.com/beeernardod/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
 </div>
